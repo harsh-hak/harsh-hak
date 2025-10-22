@@ -34,7 +34,7 @@ I specialize in understanding how systems *break* — so I can build ones that d
 
 ### 🤝 Let’s Connect
 💬 Always open for collaborations, research projects, or deep security convos.  
-🔗 [linktr.ee/harsh_hak](https://linktr.ee/harsh_hak) | 🧠 [LinkedIn](https://linkedin.com/in/harsh-kanojia369) | 🐍 [GitHub](https://github.com/harsh-hak)  
+🧠 [LinkedIn](https://linkedin.com/in/harsh-kanojia369) | 💻 [Gravatar] (https://gravatar.com/bluebirdluckyee5f9b4fbc) |🔗 [linktr.ee/harsh_hak](https://linktr.ee/harsh_hak) | 🐍 [GitHub](https://github.com/harsh-hak)  
 
 ---
 💡 *"The best defense is understanding the offense."*
