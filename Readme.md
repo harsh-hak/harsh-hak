@@ -1,40 +1,28 @@
-👋 Hey there! I'm **Harsh Kanojia**, a Cyber Security student with a hacker’s mindset and an engineer’s discipline.  
-I specialize in understanding how systems *break* — so I can build ones that don’t. 🔐  
+# 💫 About Me:
+🔭 I’m currently working on:<br>Building and improving Malware Analyzer X, a static malware analysis tool for Linux ELF files that detects malicious patterns using string extraction, entropy checks, and VirusTotal API integration.<br><br>🤝 I’m looking to collaborate on:<br>Cybersecurity research, malware analysis projects, penetration testing labs, or open-source security tools.<br><br>🧠 I’m looking for help with:<br>Enhancing malware detection accuracy using machine learning and integrating dynamic analysis features.<br><br>🌱 I’m currently learning:<br>Advanced threat modeling (STRIDE), digital forensics, and reverse engineering of malware samples.<br><br>💬 Ask me about:<br>Malware analysis, ethical hacking, Linux security, or building secure systems from the ground up.<br><br>⚡ Fun fact:<br>I once analyzed a live malware sample in a sandbox just to see how sneaky it could get — and it still couldn’t outsmart my tool 😎
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamharshkkanojiya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-kanojia369) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@harshkanojia) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/harsh_hak) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Harsh-4955) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/harsh_hak) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31799725) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/harshmess) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshkanojiya69@gmail.com) 
+
+# 💻 Tech Stack:
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=harsh-hak&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=harsh-hak&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-hak&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=harsh-hak&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=harsh-hak&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=harsh-hak&icon=0&color=4)](https://visitcount.itsvg.in)
 
-### ⚡ What I Do
-💥 **Malware Analysis & Reverse Engineering** – Dissecting binaries and hunting malicious patterns  
-🌐 **Network & Web Hacking** – Exploring real-world vulnerabilities, ethical red teaming  
-🧠 **System Defense & Automation** – Hardening systems with custom scripts & proactive monitoring  
-🐧 **Linux Enthusiast** – Deep diving into internals, shell scripting, and security configurations  
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/harshkanoj0) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/harshkali) 
 
----
-
-### 🧰 My Toolkit
-`Python` | `Bash` | `Nmap` | `Wireshark` | `Metasploit` | `Burp Suite` | `VirusTotal API` | `Linux Security`
-
----
-
-### 🚀 Projects
-🔹 **ShadowScan** – IP vulnerability scanner built in Bash (Nmap + WHOIS + DNS recon)  
-🔹 **Malware Analyzer X** – Static analysis tool for ELF files (Python)  
-🔹 **DHCP Starvation Attack Demo** – Network-level DoS and mitigation analysis  
-
-*(Check out my GitHub for more: [github.com/harsh-hak](https://github.com/harsh-hak))*  
-
----
-
-### 🧩 Currently Exploring
-🔸 Cloud Security (AWS + IAM hardening)  
-🔸 SIEM Integration (Splunk, Wazuh)  
-🔸 Secure DevOps (CI/CD pipeline security)  
-
----
-
-### 🤝 Let’s Connect
-💬 Always open for collaborations, research projects, or deep security convos.  
-🧠 [LinkedIn](https://linkedin.com/in/harsh-kanojia369) | 💻 [Gravatar](https://gravatar.com/bluebirdluckyee5f9b4fbc) |🔗 [linktr.ee/harsh_hak](https://linktr.ee/harsh_hak) | 🐍 [GitHub](https://github.com/harsh-hak)  
-
----
-💡 *"The best defense is understanding the offense."*
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
